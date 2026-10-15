@@ -1020,12 +1020,10 @@ PRODUCT_PACKAGES += \
     libdepthmapwrapper_itof \
     libdepthmapwrapper_secure \
     libmicamvendorcustom \
-    audio.primary.pineapple \
     camera.qcom.sm8650 \
     camera.qcom \
     com.qti.chi.offline \
     com.qti.chi.override \
-    libar-pal \
     com.qti.actuator.o82_ofilm_ov13b10_cn3927v_wide_i_actuator \
     com.qti.eeprom.o82_aac_ov08d10_gt24p64e_front_i_eeprom \
     com.qti.eeprom.o82_ofilm_ov13b10_bl24sa64_wide_i_eeprom \
@@ -1080,6 +1078,4 @@ PRODUCT_PACKAGES += \
     com.xiaomi.zsl.motion \
     com.xiaomi.zsl.nightmotion \
     com.xiaomi.zsl.nightmotionzslbanding \
-    com.xiaomi.zsl.sr \
-    libawcal \
-    libfsalgocal
+    com.xiaomi.zsl.sr
